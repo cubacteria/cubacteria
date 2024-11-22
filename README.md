@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔭 About Me:
 I’m currently working on improving my coding skills and building small projects to strengthen my knowledge of programming. I’m looking to collaborate on beginner-friendly open-source projects or university-level team projects. I’m looking for help with advanced topics in programming, and guidance on preparing for internships.I’m currently learning web development and exploring frameworks like React and Node.js. Ask me about student life as an international student, or my experiences learning to code as a university student. Fun fact: I once wrote my first full program on a shared library computer back in Bangladesh !
 
 ## 🌐 Socials:
