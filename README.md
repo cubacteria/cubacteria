@@ -1,5 +1,5 @@
 # 🔭 About Me:
-I’m currently working on improving my coding skills and building small projects to strengthen my knowledge of programming. I’m looking to collaborate on beginner-friendly open-source projects or university-level team projects. I’m looking for help with advanced topics in programming, and guidance on preparing for internships.I’m currently learning web development and exploring frameworks like React and Node.js. Ask me about student life as an international student, or my experiences learning to code as a university student. Fun fact: I once wrote my first full program on a shared library computer back in Bangladesh!
+Hie ! I'm Tausif , a student from bangladesh , tryna exploring The world and create random projects, yeah that's simple :)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cubacteriafr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cubacteria) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Cubacteria) 
