@@ -1,5 +1,5 @@
 # 🔭 About Me:
-Hie ! I'm Tausif , a student from bangladesh , tryna exploring The world and create random projects, yeah that's simple :)
+Hie ! I'm Tausif , a student from Bangladesh 🇧🇩 , tryna exploring The world and create random projects, yeah that's simple :)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cubacteriafr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cubacteria) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Cubacteria) 
